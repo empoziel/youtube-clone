@@ -5,6 +5,6 @@
 - React.js (Vite)
 - Tailwind
 
-###### API: https://rapidapi.com/Glavier/api/youtube138/
+api: "rapidapi.com"
 
 ![](project.gif)
