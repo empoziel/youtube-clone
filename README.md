@@ -1,10 +1,8 @@
-# Youtube Clone
+# youtube-clone
 
-## Used Tech-Tools
+## Tech
 
-- React.js (Vite)
-- Tailwind
-
-api: "rapidapi.com"
+React-vite
+Tailwind
 
 ![](project.gif)
